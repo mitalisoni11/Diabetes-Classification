@@ -4,7 +4,7 @@ Diabetes is a chronic health condition that occurs when the body is unable to ef
 This project focuses on building a machine learning model to predict the presence of diabetes in individuals based on several health-related factors. By leveraging data-driven insights, the goal is to create a classification tool that can assist healthcare professionals in identifying at-risk patients, enabling timely interventions and lifestyle modifications.
 
 ## Overview
-The **Diabetes Classification Project** utilizes the **Daiabetes prediction dataset from Kaggle*, which consists of various health measurements collected from patients. The dataset includes features such as glucose levels, blood pressure, BMI, and age, alongside the target variable indicating whether the patient has diabetes (0 for no, 1 for yes).
+The **Diabetes Classification Project** utilizes the **Daiabetes prediction dataset from Kaggle**, which consists of various health measurements collected from patients. The dataset includes features such as glucose levels, blood pressure, BMI, and age, alongside the target variable indicating whether the patient has diabetes (0 for no, 1 for yes).
 
 ### Methodology
 The project follows a structured methodology, which includes the following steps:
